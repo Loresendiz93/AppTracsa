@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#070605</color>
+    <color name="gold">#FCCC04</color>
+    <color name="lightgray">#d8d4b9</color>
+    <color name="olive">#846404</color>
+    <color name="darkgoldenrod">#bc9c04</color>
+    <color name="goldenrod">#fcdc44</color>
+    <color name="dimgray">#747474</color>
+
+</resources>
